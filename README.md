@@ -1,6 +1,6 @@
 # BizCure · Simulador de Diagnóstico Empresarial
 
-> **BizCure** es un simulador educativo de diagnóstico empresarial basado en el **Diagrama de Ishikawa** y el **Árbol de Problemas**, con estética cubista corporativa y gamificación progresiva. Desarrollado para la Unidad Didáctica de Investigación e Innovación Tecnológica (IDC) de la UTP.
+> **BizCure** es un simulador educativo de diagnóstico empresarial basado en el **Diagrama de Ishikawa** y el **Árbol de Problemas**, con estética cubista corporativa y gamificación progresiva. Desarrollado para la Unidad Didáctica de Investigación e Innovación Tecnológica (IDC).
 
 ---
 
@@ -209,9 +209,9 @@ Luego abre `http://localhost:8000/bizcure_fase3_v2.html`.
 ## 👤 Autor y créditos
 
 **Desarrollado por:** Mg. Mario Rafael Quiroz Martínez  
-**Unidad Didáctica:** Investigación e Innovación Tecnológica (IDC) — UTP  
+**Unidad Didáctica:** Investigación e Innovación Tecnológica (IDC)  
 **Marca creativa:** d3magindesign  
-**Correo institucional:** c12139@utp.edu.pe
+**Correo institucional:** mquiroz@idc.edu.pe
 
 > *BizCure es parte de un ecosistema de herramientas didácticas interactivas que incluye el sistema **Roma-Capital-Generator** (construcción geométrica de la Capitalis Monumentalis) y el **Taller Semiótico** (gamificación del modelo de Barthes).* 
 
@@ -219,7 +219,7 @@ Luego abre `http://localhost:8000/bizcure_fase3_v2.html`.
 
 ## 📄 Licencia
 
-Este material es de uso exclusivo para fines educativos en la Unidad Didáctica IDC de la UTP. El código HTML/CSS/JS es self-contained y puede ser adaptado con atribución al autor.
+Este material es de uso exclusivo para fines educativos en la Unidad Didáctica IDC . El código HTML/CSS/JS es self-contained y puede ser adaptado con atribución al autor.
 
 ---
 
@@ -234,4 +234,4 @@ Este material es de uso exclusivo para fines educativos en la Unidad Didáctica 
 
 ---
 
-*Última actualización: 2025 · Fase 3 v2 (Árbol de Problemas mejorado + Quiz de validación)*
+*Última actualización: 2026 · Fase 3 v2 (Árbol de Problemas mejorado + Quiz de validación)*
